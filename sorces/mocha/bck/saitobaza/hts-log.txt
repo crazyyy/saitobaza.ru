@@ -1,0 +1,60 @@
+HTTrack3.47-27+htsswf+htsjava launched on Tue, 10 Dec 2013 10:41:54 at saitobaza.ru +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwr20C2%Pn%s%u%I0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F  -%l "uk, en, *" saitobaza.ru -O1 D:\work\verstka\saitobaza\mocha\saitobaza +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:41:55	Warning: 	Note: due to saitobaza.ru remote robots.txt rules, links beginning with these path will be forbidden: /cgi-bin, /wp-admin, /html, /wp-includes, /wp-content/plugins, /wp-content/cache, /wp-content/themes, /wp-login.php, /wp-register.php, /trackback, /feed, /rss, */trackback, */feed, */rss, /xmlrpc.php, /author*, */comments, */comment-page*, /*?*, /*? (see in the options to disable this)
+10:50:41	Warning: 	Retry after error -4 (Incorrect length (65902 Bytes, 96298 expected)) at link platform.twitter.com/widgets.js (from saitobaza.ru/)
+10:50:41	Warning: 	Warning: store text/css without scan: D:/work/verstka/saitobaza/mocha/saitobaza/plus.google.com/_/scs/apps-static/_/ss/k=oz.home.13xeuxhox4eo3.L.X.O/am=AGAIJINBRtECAAAAQBGoMnwihGgCAwCAHQ/rs=AItRSTNSSSVjzlxgkzpbqf2bLnelx5Ei_Q.css
+10:52:51	Warning: 	Note: due to mc.yandex.ru remote robots.txt rules, links beginning with these path will be forbidden: / (see in the options to disable this)
+10:55:57	Error: 	"Not Found" (404) at link saitobaza.ru/portfolio-items/dzhaber (from saitobaza.ru/uslugi/verstka.htm)
+10:55:57	Error: 	"Not Found" (404) at link saitobaza.ru/portfolio-items/tranceweb (from saitobaza.ru/uslugi/verstka.htm)
+10:55:57	Error: 	"Not Found" (404) at link saitobaza.ru/portfolio-items/mass-by (from saitobaza.ru/uslugi/verstka.htm)
+10:55:57	Error: 	"Not Found" (404) at link saitobaza.ru/portfolio-items/ooho (from saitobaza.ru/uslugi/verstka.htm)
+10:58:46	Error: 	"Not Found" (404) at link saitobaza.ru/img/dummies/featured-1.jpg (from saitobaza.ru/verstka-htmlcssjs-buxmejster.htm)
+10:58:46	Error: 	"Not Found" (404) at link saitobaza.ru/single.html (from saitobaza.ru/verstka-htmlcssjs-buxmejster.htm)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/; path=/ (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/activity.set (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_comments.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_recommended.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_like.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_poll.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/al_widget_poll.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_community.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_auth.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/widget_subscribe.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/ads_rotate.php (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link vk.com/js/api/openapi_update.js? (from https://vk.com/js/api/openapi.js)
+10:58:55	Error: 	"Not Found" (404) at link saitobaza.ru/api/openapi.js (from https://vk.com/js/api/openapi.js)
+10:58:56	Error: 	"Not Found" (404) at link saitobaza.ru/api/share.js (from https://vk.com/js/api/share.js)
+10:58:56	Error: 	"Not Found" (404) at link saitobaza.ru/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/ru_RU/all.js)
+10:58:56	Error: 	"Not Found" (404) at link saitobaza.ru/restserver.php (from connect.facebook.net/ru_RU/all.js)
+11:01:05	Error: 	"Not Found" (404) at link saitobaza.ru/wp-content/uploads/dl/rich-contact-widget.1.0.zip Cheers! (from saitobaza.ru/strukturirovanie-kontenta-v-wordpress-pochemu-nuzhno-ispolzovat-mikroformaty.htm)
+11:01:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/nhd7DW6/chocolate-wp-saitobaza.ru.zip (from saitobaza.ru/wp-tema-i-facebook-stranichka-dlya-portfollio-posadochnaya-stranica-i-besplatnaya-programma-dlya-raboty-s-klyuchevymi-slovami.htm)
+11:01:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/DXdUWlN/video-fan-facebook-saitobaza.ru.zip (from saitobaza.ru/wp-tema-i-facebook-stranichka-dlya-portfollio-posadochnaya-stranica-i-besplatnaya-programma-dlya-raboty-s-klyuchevymi-slovami.htm)
+11:01:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/yLrIsni/[WooThemes]-Canvas.v4.7.3.for.Wordpress.zip (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/WJ0TmE9/EzFanpageGenerator.zip (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/robots.txt (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/LlPLb4L/intaverna.rar (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:08	Error: 	"Not Found" (404) at link saitobaza.ru/w3bzone.com (from saitobaza.ru/kak-sozdat-filmy-onlajn-poshagovaya-instrukciya-i-videourok.htm)
+11:01:08	Error: 	"Not Found" (404) at link zebroid.ru/zebroid_3_demo.zip (from saitobaza.ru/testovaya-versiya-zebroida.htm)
+11:01:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/w6L4qFl/alyeska-premium-wordpress-theme.zip (from saitobaza.ru/premium-tema-wordpress-alyeska-premium-theme-v1-1-4.htm)
+11:01:27	Warning: 	Warning: store text/css without scan: D:/work/verstka/saitobaza/mocha/saitobaza/webmaster.yandex.ua/_c/css/webmaster.ca458ce9811caabcb17abe363b44e518.css
+11:01:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/nhd7DW6/chocolate-wp-saitobaza.ru.zip (from saitobaza.ru/wp-tema-i-facebook-stranichka-dlya-portfollio-posadochnaya-stranica-i-besplatnaya-programma-dlya-raboty-s-klyuchevymi-slovami.htm)
+11:01:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/DXdUWlN/video-fan-facebook-saitobaza.ru.zip (from saitobaza.ru/wp-tema-i-facebook-stranichka-dlya-portfollio-posadochnaya-stranica-i-besplatnaya-programma-dlya-raboty-s-klyuchevymi-slovami.htm)
+11:01:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/yLrIsni/[WooThemes]-Canvas.v4.7.3.for.Wordpress.zip (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/WJ0TmE9/EzFanpageGenerator.zip (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:27	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/LlPLb4L/intaverna.rar (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:28	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link www.filesonic.com/file/w6L4qFl/alyeska-premium-wordpress-theme.zip (from saitobaza.ru/premium-tema-wordpress-alyeska-premium-theme-v1-1-4.htm)
+11:01:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/file/nhd7DW6/chocolate-wp-saitobaza.ru.zip (from saitobaza.ru/wp-tema-i-facebook-stranichka-dlya-portfollio-posadochnaya-stranica-i-besplatnaya-programma-dlya-raboty-s-klyuchevymi-slovami.htm)
+11:01:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/file/DXdUWlN/video-fan-facebook-saitobaza.ru.zip (from saitobaza.ru/wp-tema-i-facebook-stranichka-dlya-portfollio-posadochnaya-stranica-i-besplatnaya-programma-dlya-raboty-s-klyuchevymi-slovami.htm)
+11:01:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/file/yLrIsni/[WooThemes]-Canvas.v4.7.3.for.Wordpress.zip (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/file/WJ0TmE9/EzFanpageGenerator.zip (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:28	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/file/LlPLb4L/intaverna.rar (from saitobaza.ru/otlichnaya-premium-tema-wordpress-i-plagin-generacii-fanstranic-dlya-facebook.htm)
+11:01:32	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link www.filesonic.com/file/w6L4qFl/alyeska-premium-wordpress-theme.zip (from saitobaza.ru/premium-tema-wordpress-alyeska-premium-theme-v1-1-4.htm)
+
+HTTrack Website Copier/3.47-27 mirror complete in 19 minutes 38 seconds : 488 links scanned, 437 files written (30710216 bytes overall) [31079003 bytes received at 26382 bytes/sec], 799373 bytes transferred using HTTP compression in 15 files, ratio 30%, 1.0 requests per connection
+(32 errors, 17 warnings, 0 messages)

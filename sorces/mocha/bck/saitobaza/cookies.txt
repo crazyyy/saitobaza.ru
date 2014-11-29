@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.google.com	TRUE	/	FALSE	1999999999	NID	67=ZXEDgQoTEakyrg2Z6nowIvqGerkfX6veWVoGLi-oKBCA5TaAYErwHHJzQYk10GAhvTtwgu4IX7JVY-KX1_KFKncKe88s_jDHslGh-HFvBhxcu9oigrUMgGxLHdJfGS4f
+.yandex.ru	TRUE	/	FALSE	1999999999	yandexuid	1729228641386664983
+mc.yandex.ru	TRUE	/	FALSE	1999999999	yabs-sid	1008070761386664983
+zebroid.ru	TRUE	/	FALSE	1999999999	PHPSESSID	999e205183eda506184da9e9b98b82fe
+hit.gemius.pl	TRUE	/	FALSE	1999999999	Gtest	KlStJMaGQMQGIO3fPkeQwU8RssGMXP8cRRgG
+
