@@ -468,7 +468,7 @@ add_action( 'wp_print_scripts', 'disableAutoSave' );
 /* 
 http://maxtop.org/wordpress-obedinenie-css-fajlov-stilej-otklyuchenie-zagruzki-lishnix-css-fajlov/
 http://nikitak.name/wordpress-cleanup-header/
-
+*/
 // remove css 
 add_action ('wp_print_styles','remove_styles',100);
 function remove_styles () {
@@ -483,5 +483,6 @@ function remove_styles () {
     wp_deregister_style ('wpui-custom-css');
 }
 
-*/
+
+
 ?>

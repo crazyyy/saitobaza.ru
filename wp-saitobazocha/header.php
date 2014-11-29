@@ -22,8 +22,6 @@
 		<meta name="msapplication-wide310x150logo" content="<?php echo get_template_directory_uri(); ?>/img/icons/mstile-310x150.png" />
 			
 		<!-- css + javascript -->
-		<link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">
-		<link href="<?php echo get_template_directory_uri(); ?>/css/bootstrap-responsive.min.css" rel="stylesheet">
 		<?php wp_head(); ?>
 		<script>
 		!function(){
