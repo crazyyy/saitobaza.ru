@@ -1,0 +1,36 @@
+
+#langs a, #footer-inside h3, #exp p, a.trigger, ul.info a{
+	color:#E45635;
+}
+#drag{
+	background:url(../images/drag-red.png);
+	background-repeat:no-repeat;
+}
+a.circle{
+	background:#E45635;
+}
+a.circle:hover{
+	background:#f07053;
+}
+#strip{
+	background:url(../images/strip-red.html);
+	background-repeat:no-repeat;
+}
+/* ------------------------------------------------------------------------------------
+--  NAVIGATION
+------------------------------------------------------------------------------------ */
+nav#primary ul.main-menu a{
+	color:#E45635;	
+}
+nav#primary ul.child-menu a{
+	color:#bcbcbc;
+}
+nav#primary ul.child-menu a:hover{
+	color:#E45635;
+}
+nav#primary ul.child-menu a:hover{
+	color:#E45635;
+}
+nav#secondary a:hover,  #page_navigation a:hover{
+    background:#f07053;
+}

@@ -1,0 +1,33 @@
+
+#langs a, #footer-inside h3, #exp p, a.trigger, ul.info a{
+	color:#CAAC94;
+}
+#drag{
+	background:url(../images/drag-beige.png);
+	background-repeat:no-repeat;
+}
+a.circle{
+	background:#CAAC94;
+}
+a.circle:hover{
+	background:#d6bca8;
+}
+#strip{
+	background:url(../images/strip-beige.html);
+	background-repeat:no-repeat;
+}
+/* ------------------------------------------------------------------------------------
+--  NAVIGATION
+------------------------------------------------------------------------------------ */
+nav#primary ul.main-menu a{
+	color:#CAAC94;	
+}
+nav#primary ul.child-menu a{
+	color:#bcbcbc;
+}
+nav#primary ul.child-menu a:hover{
+	color:#CAAC94;
+}
+nav#secondary a:hover,  #page_navigation a:hover{
+    background:#d6bca8;
+}

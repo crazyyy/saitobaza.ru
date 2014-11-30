@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'helvetica_medium';
+    src: url('../fonts/helveticaneuecyr-medium-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-medium-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-medium-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-medium-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-medium-webfont.svg#helveticaneuecyrmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_italic';
+    src: url('../fonts/helveticaneuecyr-italic-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-italic-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-italic-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-italic-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-italic-webfont.svg#helveticaneuecyritalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'helvetica_bold';
+    src: url('../fonts/helveticaneuecyr-bold-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-bold-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-bold-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-bold-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-bold-webfont.svg#helveticaneuecyrbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_black';
+    src: url('../fonts/helveticaneuecyr-black-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-black-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-black-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-black-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-black-webfont.svg#helveticaneuecyrblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_heavy';
+    src: url('../fonts/helveticaneuecyr-heavy-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-heavy-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-heavy-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-heavy-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-heavy-webfont.svg#helveticaneuecyrheavy') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_thin';
+    src: url('../fonts/helveticaneuecyr-thin-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-thin-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-thin-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-thin-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-thin-webfont.svg#helveticaneuecyrthin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'helvetica_ulight';
+    src: url('../fonts/helveticaneuecyr-ultralight-webfont.eot');
+    src: url('../fonts/helveticaneuecyr-ultralight-webfontd41d.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/helveticaneuecyr-ultralight-webfont.woff') format('woff'),
+         url('../fonts/helveticaneuecyr-ultralight-webfont.ttf') format('truetype'),
+         url('../fonts/helveticaneuecyr-ultralight-webfont.svg#helveticaneuecyrultralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

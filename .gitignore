@@ -6,6 +6,7 @@
 /bck/saitobaza.ru-2014-04-26.rar
 /*.sublime-project
 /*.sublime-workspace
-/node_modules
+node_modules
 _gsdata_
 /wp-saitobazocha/sftp-config.json
+bower_components

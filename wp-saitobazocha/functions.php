@@ -470,19 +470,22 @@ http://maxtop.org/wordpress-obedinenie-css-fajlov-stilej-otklyuchenie-zagruzki-l
 http://nikitak.name/wordpress-cleanup-header/
 */
 // remove css 
-add_action ('wp_print_styles','remove_styles',100);
+
+
 function remove_styles () {
     // add handles for styles you wish to remove
     wp_deregister_style ('contact-form-7');
     wp_deregister_style ('pay-with-a-like');
     wp_deregister_style ('quotescollection-style');
     wp_deregister_style ('responsive-lightbox-prettyphoto-front');
-    wp_deregister_style ('wp-ui');
-    wp_deregister_style ('wpui-light');
-    wp_deregister_style ('wpui-multiple');
+    wp_deregister_style ('wp-ui-css');
+    wp_deregister_style ('wpui-light-css');
+    wp_deregister_style ('wpui-multiple-css');
     wp_deregister_style ('wpui-custom-css');
+    wp_deregister_style ('http://saitobaza.ru/wp-content/plugins/wp-code-highlight/css/desert.css');
 }
 
+add_action ('wp_print_styles','remove_styles',100);
 
 
 ?>

@@ -1,0 +1,35 @@
+
+#langs a, #footer-inside h3, #exp p, a.trigger, ul.info a{
+	color:#ecb364;
+}
+#drag{
+	background:url(../images/drag-yellow.png);
+	background-repeat:no-repeat;
+}
+a.circle{
+	background:#ecb364;
+}
+a.circle:hover{
+	background:#f1cd9c;
+}
+#strip{
+	background:url(../images/strip.html);
+	background-repeat:no-repeat;
+}
+/* ------------------------------------------------------------------------------------
+--  NAVIGATION
+------------------------------------------------------------------------------------ */
+nav#primary ul.main-menu a{
+	color:#ecb364;	
+}
+nav#primary ul.child-menu a{
+	color:#bcbcbc;
+}
+nav#primary ul.child-menu a:hover{
+	color:#ecb364;
+}
+nav#secondary a:hover,  #page_navigation a:hover{
+    background:rgba(236,179,100,0.8);
+}
+
+

@@ -1,0 +1,63 @@
+#leftpanels a:focus {
+outline: none;
+}
+#leftpanels a.trigger{
+	position: absolute;
+	
+	text-decoration: none;
+	font-size: 16px;
+	letter-spacing:-1px;
+	font-family: verdana, helvetica, arial, sans-serif;
+	color:#fff;
+	font-weight: bold;
+	width: 53px;
+	height: 118px;
+	z-index:70;
+}
+
+a#trigger1 {
+
+	background-image:url(../img/bg/order1.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+a#trigger2 {
+	background-image:url(../img/bg/order2.png);
+	background-position:left top;
+	background-repeat:no-repeat;
+}
+
+#leftpanels a.trigger.right {
+	right: 0;
+
+}
+#leftpanels a.trigger:hover {
+/* 	background-color:#59B; */
+}
+#leftpanels a.active.trigger {
+	right: 117px;
+/* 	background:url(../img/hide.png) 0% 50% no-repeat; */
+}
+#leftpanels .panel {
+	color:#CCC;
+	position: absolute;
+	display: none;
+	background-image:url(../img/bg/hide.png);
+	background-position:right top;
+	background-repeat:no-repeat;
+	width: 140px;
+	height: 114px !important;
+	height: auto;
+	z-index:1;
+}
+
+#leftpanels .panel.right {
+	right: 0;
+}
+#leftpanels .panel p {
+
+	color: #6d6d6d;
+	padding: 35px 20px 10px 40px;
+	margin: 0;
+}
