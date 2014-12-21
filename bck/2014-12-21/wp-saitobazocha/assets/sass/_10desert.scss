@@ -1,0 +1,88 @@
+/**
+* @plugin name WP Code Highlight
+* @plugin url http://boliquan.com/wp-code-highlight/
+*/
+
+pre {
+  .nocode {
+    color: #000;
+  }
+  .str {
+    color: #ffa0a0;
+  }
+  .kwd {
+    color: #f0e68c;
+    font-weight: bold;
+  }
+  .com {
+    color: #87ceeb;
+  }
+  .typ {
+    color: #98fb98;
+  }
+  .lit {
+    color: #cd5c5c;
+  }
+  .pun,
+  .pln {
+    color: #fff;
+  }
+  .tag {
+    color: #f0e68c;
+    font-weight: bold;
+  }
+  .atn {
+    color: #bdb76b;
+    font-weight: bold;
+  }
+  .atv {
+    color: #ffa0a0;
+  }
+  .dec {
+    color: #98fb98;
+  }
+  &.prettyprint {
+    display: block;
+    background-color: #333;
+    font-size: 12px;
+    line-height: 16px;
+    margin: 6px 0;
+    padding: 2px 7px;
+    word-wrap: normal;
+    overflow: auto;
+    width: 98%;
+  }
+}
+
+ol.linenums {
+  li {
+    line-height: 16px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    &:before,
+    &:after {
+      content: none;
+    }
+    &.L0,
+    &.L1,
+    &.L2,
+    &.L3,
+    &.L4,
+    &.L5,
+    &.L6,
+    &.L7,
+    &.L8,
+    &.L9,
+    &.L1,
+    &.L3,
+    &.L5,
+    &.L7,
+    &.L9 {
+      list-style-type: decimal;
+    }
+  }
+  margin: 0;
+  padding-left: 27px;
+  color: #aeaeae;
+}
