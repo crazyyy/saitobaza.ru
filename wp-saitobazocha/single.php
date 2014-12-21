@@ -28,11 +28,19 @@
 					<!-- content -->
 					<div class="post-content content-section">
 						<div class="content clearfix">
-							<div class="gadc-content">
-								
-							</div>
+							<ins class="adsbygoogle gadc-content"
+								style="display: block"
+								data-ad-client="ca-pub-7907557357919250"
+								data-ad-slot="5437013113">
+							</ins>								
 							<!-- /.gadc-content -->
 								<?php the_content(); // Dynamic Content ?>
+							<ins class="adsbygoogle gadc-content-bottom"
+								style="display: block"
+								data-ad-client="ca-pub-7907557357919250"
+								data-ad-slot="5437013113">
+							</ins>
+							<!-- /.gadc-content-bottom -->
 								<script>
 								//uptolike share begin
 								(function(d,c){

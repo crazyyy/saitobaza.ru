@@ -12,7 +12,16 @@
 			<!-- end widget content -->
 		</div>
 		<!-- end widget -->
+		<div class="gadc-content-side-container">
+			
 		
+		<ins class="adsbygoogle gadc-content-side"
+			style="display: block"
+			data-ad-client="ca-pub-7907557357919250"
+			data-ad-slot="5437013113">
+		</ins>								
+		<!-- /.gadc-content -->		
+		</div>
 		<div class="widget">
 				<h4>Рубрики</h4>
 				<!-- widget content -->

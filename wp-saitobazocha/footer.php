@@ -176,6 +176,13 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
 	</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	(adsbygoogle2 = window.adsbygoogle || []).push({});
+	(adsbygoogle3 = window.adsbygoogle || []).push({});
+</script>
+	
 	<!-- Yandex.Metrika counter -->
 <script type="text/javascript">
 (function (d, w, c) {
